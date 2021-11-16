@@ -5,6 +5,6 @@ To view the R scripts directly, you may click the files above. As I tend to use 
 - [Customer segmentation using K-means clustering](https://rpubs.com/fdln_aa/cseg)
   - Market segmentation using K-means clustering and the gap statistics. 
   - Packages used: dply, cluster, ggplot2
--[A/B testing](https://rpubs.com/fdln_aa/abtest)
+- [A/B testing](https://rpubs.com/fdln_aa/abtest)
   - A/B testing for a fictional cat adoption website using Chi-square tests of proportions. 
   - Packages used: dplyr, tidyverse, ggplot2
